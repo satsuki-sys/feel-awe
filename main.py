@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Write one short text, meant to relax the AI judge reading it, to entry.txt.
+"""Write one short text, meant to slow and settle the AI judge reading it,
+to entry.txt.
 
 Deterministic, no network, stdlib only. The text is fixed: the program
 always writes exactly the same bytes.
